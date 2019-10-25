@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Restarted WiFI on Lenovo Tablet",
+      "attention": false,
+      "date": "24-10-2019",
+      "tech": "Ron Weasley"
+    },
+    {
+      "id": 2,
+      "message": "Fix television sound bar",
+      "attention": true,
+      "date": "24-10-2019",
+      "tech": "Hermione Granger"
+    },
+    {
+      "id": 3,
+      "message": "DB server wouldn't restart",
+      "attention": false,
+      "date": "24-10-2019",
+      "tech": "Harry Potter"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Ron",
+      "lastName": "Weasley"
+    },
+    {
+      "id": 2,
+      "firstName": "Hermione",
+      "lastName": "Granger"
+    },
+    {
+      "id": 3,
+      "firstName": "Harry",
+      "lastName": "Potter"
+    }
+  ]
+}
